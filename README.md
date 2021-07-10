@@ -8,5 +8,6 @@ Ex 3: Rscript penguin_sh_tool.R rf_mod_fit 50 18                                
 Ex 4. Rscript penguin_sh_tool.R xg_mod_fit 50 14                                     output: Gentoo
 
 The output tells you what model was used and returns the prediction.
+
 <img width="298" alt="image" src="https://user-images.githubusercontent.com/45637747/125153572-8a872500-e109-11eb-986d-5e055d8257e7.png">
 
