@@ -13,6 +13,8 @@ Ex 4. Rscript penguin_sh_tool.R xg_mod_fit 50 14                                
 
 The output of Ex 3 should include the following messages:
 
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/45637747/125180220-6deff900-e1ac-11eb-80b3-d2c67b82295e.png">
+
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/45637747/125153826-3d0bb780-e10b-11eb-83eb-92625e231ac0.png">
 
 And return the predicted species based on the model and inputs.
